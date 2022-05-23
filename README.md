@@ -1,5 +1,5 @@
-<div style="margin: 0 auto;">Hi 👋 My name is Ahmed
-====================== </div>
+Hi 👋 My name is Ahmed
+======================
 
 Full stack web developer
 ------------------------
