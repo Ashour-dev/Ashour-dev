@@ -1,5 +1,4 @@
-Hi 👋 My name is Ahmed
-======================
+<h2 align="center" >Hi 👋 My name is Ahmed</h2>
 
 Full stack web developer
 ------------------------
