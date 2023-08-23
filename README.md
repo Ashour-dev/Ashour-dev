@@ -3,9 +3,6 @@
 Full Stack Web developer
 ------------------------
 
-* 🌍  I'm based in Italy
-* ✉️  You can contact me at [hassanien.ahmed.dev@gmail.com](mailto:hassanien.ahmed.dev@gmail.com)
-
 ### Skills
 
 <p align="left">
